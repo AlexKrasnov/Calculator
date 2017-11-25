@@ -1,0 +1,6 @@
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\CalculatorLib\bin\Windows Phone\Debug\CalculatorLib.dll
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\CalculatorLib\bin\Windows Phone\Debug\CalculatorLib.pdb
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\CalculatorLib\obj\Windows Phone\Debug\CalculatorLib.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\CalculatorLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\CalculatorLib\obj\Windows Phone\Debug\CalculatorLib.dll
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\CalculatorLib\obj\Windows Phone\Debug\CalculatorLib.pdb

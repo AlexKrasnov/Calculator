@@ -1,0 +1,16 @@
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\Bin\Debug\ApplicationIcon.png
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\Bin\Debug\Background.png
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\Bin\Debug\Calculator.dll
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\Bin\Debug\Calculator.pdb
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\Bin\Debug\AppManifest.xaml
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\Bin\Debug\Calculator.xap
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\Bin\Debug\CalculatorLib.dll
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\Bin\Debug\CalculatorLib.pdb
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\obj\Debug\App.g.cs
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\obj\Debug\GamePage.g.cs
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\obj\Debug\MainPage.g.cs
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.resources
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.dll
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+c:\users\александр\documents\visual studio 2012\Projects\Calculator\Calculator\Calculator\obj\Debug\XapCacheFile.xml
